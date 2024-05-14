@@ -1,5 +1,5 @@
 # Rock Paper Scissors
 
-You can open the console by pressing F12 and play the rock-paper-scissors game.
+You can preview the project with live preview.
 
 [Live Preview](https://semihmertdev.github.io/Rock-Paper-Scissors/)
