@@ -1,0 +1,22 @@
+div{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+
+button{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+    border: 3px solid black;
+    text-align: center;
+}
+
+button:hover{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+}
+
